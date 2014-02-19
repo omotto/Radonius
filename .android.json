@@ -1,0 +1,1 @@
+{"layout": "internal", "orientation": "landscape", "package": "com.domain.radonius", "include_pil": false, "expansion": false, "name": "RADONIUS", "source": false, "icon_name": "RADONIUS", "version": "1", "permissions": ["VIBRATE"], "include_sqlite": false, "numeric_version": "1"}
